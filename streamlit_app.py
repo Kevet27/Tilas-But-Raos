@@ -703,7 +703,7 @@ else:
             type="password"
         )
 
-        if password_admin == "admin123":
+        if password_admin == "admin12345":
 
             admin_produk()
 
